@@ -24,5 +24,5 @@ QA任务集构建过程如下：
 
 ## 联系方式
 
-如有问题，请联系：yss_shanshan@outlook.com
+如有问题，请联系：yss.shanshan@outlook.com
 
